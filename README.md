@@ -4,7 +4,7 @@ NeoForge datapack patch fixing excessive Mad Scientist spawning by restricting s
 
 # Features
 1. Removes global Mad Scientist spawning
-2. Adds structure-bound laboratory spawning
+2. Adds structure-bound laboratory spawning for Mad Scientists
 3. Reduces laboratory structure frequency
 4. Improves biome namespace compatibility for NeoForge datapacks
 
