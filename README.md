@@ -14,7 +14,7 @@ NeoForge datapack patch fixing excessive Mad Scientist spawning by restricting s
 
 Place the datapack ZIP into:
 
-.minecraft/saves/WORLD/datapacks/
+.minecraft/saves/world/datapacks/
 
 ## Dedicated Server:
 
