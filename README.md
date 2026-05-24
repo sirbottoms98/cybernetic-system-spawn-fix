@@ -1,22 +1,22 @@
-Cybernetic System Spawn Fix
+# Cybernetic System Spawn Fix
 
 NeoForge datapack patch fixing excessive Mad Scientist spawning by restricting spawns to laboratory structures and rebalancing laboratory world generation frequency.
 
-Features
+# Features
 1. Removes global Mad Scientist spawning
 2. Adds structure-bound laboratory spawning
 3. Reduces laboratory structure frequency
 4. Improves biome namespace compatibility for NeoForge datapacks
 
-Installation
+# Installation
 
-Singleplayer:
+## Singleplayer:
 
 Place the datapack ZIP into:
 
 .minecraft/saves/WORLD/datapacks/
 
-Dedicated Server:
+## Dedicated Server:
 
 Place the datapack ZIP into:
 
@@ -29,11 +29,11 @@ Then run:
 or restart the server/world.
 
 
-Compatibility
+# Compatibility
 Minecraft 1.21.x
 NeoForge
 
-Disclaimer:
+# Disclaimer:
 
 This project is an independent datapack compatibility patch and does not include or redistribute assets or source code from Cybernetic System by Netherito. The original mod remains the property of its respective author.
 
